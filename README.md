@@ -1,1 +1,1 @@
-# Caleb The Webstronomer Ionic Projects
+# Ionic-Kaleb is an Ionic-Angular Mobile App to Showcase Ionic
